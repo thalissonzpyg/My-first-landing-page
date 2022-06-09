@@ -1,6 +1,6 @@
 
 .main-bg {
-    background: url(/LANDING-PAGE-CURSOJS/assets/img/main-bg.svg);
+    background: url(../img/main-bg.svg);
     background-position: center center;
     color: var(--white)
 }
